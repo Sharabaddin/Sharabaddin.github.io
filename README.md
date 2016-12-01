@@ -34,7 +34,7 @@
 Переводить или коректировать нужно только отображаемый в браузере текст в html файле который располагаеться основной директории.
 Например javaguide.html для JAVA
 
-Google Style Guides
+Google Style Guides(оригинальное описание)
 ===================
 
 Every major open-source project has its own style guide: a set of conventions
