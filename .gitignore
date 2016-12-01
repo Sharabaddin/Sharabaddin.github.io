@@ -42,5 +42,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-#idea
+#Jet Brains idea
 *.iml
