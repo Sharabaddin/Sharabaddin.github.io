@@ -95,25 +95,25 @@
       <code class="prettyprint lang-java">\\</code>), эта последывательность
       используется вместо соответствующей восьмеричной
       (напр.&#160;<code class="badcode">\012</code>) или Юникод
-      (напр.&#160;<code class="badcode">\u000a</code>) escape последовательности.</p>
+      (напр.&#160;<code class="badcode">\u000a</code>) escape-последовательности.</p>
 
-    <h4 id="s2.3.3-non-ascii-characters">2.3.3 Non-ASCII characters</h4>
+    <h4 id="s2.3.3-non-ascii-characters">2.3.3 Не-ASCII символы</h4>
 
-    <p>For the remaining non-ASCII characters, either the actual Unicode character
-      (e.g.&#160;<code class="prettyprint lang-java">&#8734;</code>) or the equivalent Unicode escape
-      (e.g.&#160;<code class="prettyprint lang-java">\u221e</code>) is used. The choice depends only on
-      which makes the code <strong>easier to read and understand</strong>, although Unicode escapes
-      outside string literals and comments are strongly discouraged.</p>
+    <p>Для отсальных не-ASCII символов используеться, либо фактичиских символов Юникода
+      (напр.&#160;<code class="prettyprint lang-java">&#8734;</code>) или еквивалетной Юникод escape-последовательности
+      (напр.&#160;<code class="prettyprint lang-java">\u221e</code>). Выбо зависит только от
+      что делает код <strong>более удобным для чтения и понимания</strong>, хотя выход escape-последовательности
+      за пределы строковых литералов, а применения в коментариях строго не рекомендуеться.</p>
 
-    <p class="tip"><strong>Tip:</strong> In the Unicode escape case, and occasionally even when actual
-      Unicode characters are used, an explanatory comment can be very helpful.</p>
+    <p class="tip"><strong>Совет:</strong> В случаи Юникод escape-последовательности, а иногда и когда фактичиски используеться
+      символ Юникода, поясняющий коментарий может быть очень полезным.</p>
 
-    <p>Examples:</p>
+    <p>Примеры:</p>
 
     <table>
       <tbody><tr>
-        <th>Example</th>
-        <th>Discussion</th>
+        <th>Пример</th>
+        <th>Дискусия</th>
       </tr>
 
       <tr>
