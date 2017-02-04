@@ -67,15 +67,15 @@ for more details.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
-[cpp]: https://sharabaddin.github.io/styleguide/cppguide.html
-[objc]: https://sharabaddin.github.io/styleguide/objcguide.xml
-[java]: https://sharabaddin.github.io/styleguide/javaguide.html
-[py]: https://sharabaddin.github.io/styleguide/pyguide.html
-[r]: https://sharabaddin.github.io/styleguide/Rguide.xml
-[sh]: https://sharabaddin.github.io/styleguide/shell.xml
-[htmlcss]: https://sharabaddin.github.io/styleguide/htmlcssguide.xml
-[js]: https://sharabaddin.github.io/styleguide/jsguide.html
-[angular]: https://sharabaddin.github.io/styleguide/angularjs-google-style.html
-[cl]: https://sharabaddin.github.io/styleguide/lispguide.xml
-[vim]: https://sharabaddin.github.io/styleguide/vimscriptguide.xml
-[xml]: https://sharabaddin.github.io/styleguide/xmlstyle.html
+[cpp]: https://sharabaddin.github.io/cppguide.html
+[objc]: https://sharabaddin.github.io/objcguide.xml
+[java]: https://sharabaddin.github.io/javaguide.html
+[py]: https://sharabaddin.github.io/pyguide.html
+[r]: https://sharabaddin.github.io/Rguide.xml
+[sh]: https://sharabaddin.github.io/shell.xml
+[htmlcss]: https://sharabaddin.github.io/htmlcssguide.xml
+[js]: https://sharabaddin.github.io/jsguide.html
+[angular]: https://sharabaddin.github.io/angularjs-google-style.html
+[cl]: https://sharabaddin.github.io/lispguide.xml
+[vim]: https://sharabaddin.github.io/vimscriptguide.xml
+[xml]: https://sharabaddin.github.io/xmlstyle.html
